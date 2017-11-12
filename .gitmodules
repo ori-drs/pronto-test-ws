@@ -1,0 +1,18 @@
+[submodule "code/src/pronto_estimator_core"]
+	path = code/src/pronto_estimator_core
+	url = git@github.com:oxfordrobotics/pronto_estimator_core.git
+[submodule "externals/bot_core_lcmtypes"]
+	path = externals/bot_core_lcmtypes
+	url = https://github.com/openhumanoids/bot_core_lcmtypes.git
+[submodule "externals/common_utils"]
+	path = externals/common_utils
+	url = https://github.com/openhumanoids/common_utils.git
+[submodule "externals/eigen-pod"]
+	path = externals/eigen-pod
+	url = https://github.com/RobotLocomotion/eigen-pod.git
+[submodule "externals/libbot"]
+	path = externals/libbot
+	url = https://github.com/openhumanoids/libbot.git
+[submodule "externals/occ-map"]
+	path = externals/occ-map
+	url = https://github.com/openhumanoids/occ-map.git
