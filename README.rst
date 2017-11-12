@@ -7,3 +7,5 @@ Test environment for pronto's core estimator
   make -j
   cd ../code
   catkin build
+
+  This take about 80 seconds to compile
